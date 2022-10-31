@@ -39,6 +39,7 @@ This Struture shows the outline of the phonelinerental project:
 <p align="center">
 	<img src="images/12.png" width="400">
 </p> 
+
 ## Postman Fuctionalities
 
 Add Customer
@@ -91,5 +92,6 @@ This testing has failed due to its complexity and is yet to solved in the near f
 <p align="center">
 	<img src="images/66.png" width="400">
 </p> 
+
 ## Future Improvements
 To create more tables to develop further understanding of complex relationships and problems. The project was done on a time constraint therefore it was done through urgency rather ones comfort. More time would have allowed all the errors to be fixed and would have allowed me to retain all the information learnt throughout this course. 
