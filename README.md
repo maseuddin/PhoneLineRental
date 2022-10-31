@@ -94,4 +94,4 @@ This testing has failed due to its complexity and is yet to solved in the near f
 </p> 
 
 ## Future Improvements
-To create more tables to develop further understanding of complex relationships and problems. The project was done on a time constraint therefore it was done through urgency rather ones comfort. More time would have allowed all the errors to be fixed and would have allowed me to retain all the information learnt throughout this course. 
+To create more tables to develop further understanding of complex relationships and problems. The project was done on a time constraint therefore it was done through urgency than rather ones comfort. More time would have allowed all the errors to be fixed and would have allowed me to retain all the information learnt throughout this course. This would in turn make me obsessed with creating so many projects i would lose count and achieving my dream ambitions diving into a pile full of cash.
